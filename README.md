@@ -10,4 +10,4 @@
 3. Реализовать тест для проверки скорости работы программы
 4. Обработать ошибку переполнения
 
-![Build Status]
+![Build Status](https://github.com/C14ayt0n/HSE_TZ_3/actions/workflows/tests.yml/badge.svg?branch=master)
