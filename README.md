@@ -10,4 +10,4 @@
 3. Реализовать тест для проверки скорости работы программы
 4. Обработать ошибку переполнения
 
-https://github.com/C14ayt0n/HSE_TZ_3/actions/workflows/tests.py/badge.svg
+https://github.com/C14ayt0n/HSE_TZ_3/actions/workflows/tests.yml/badge.svg
