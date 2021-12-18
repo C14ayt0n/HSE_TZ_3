@@ -16,4 +16,4 @@ jobs:
         with:
           python-version: 3.9
       - name: Run functions_test
-        run: python -m unittest test1.py
+        run: python -m unittest functions_test.py
